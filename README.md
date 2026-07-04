@@ -4,7 +4,7 @@ Markdown content
 
 # Hi 👋 I'm Ragu Raman
 
-Python Developer | AI Enthusiast | Deep Learning Researcher
+Python Developer | Technical Support Engineer | Software Engineer
 
 ![Medical Coding Data files- CPT, ICD-10 and HCPCS crosswalk list - AAPC](https://images.openai.com/static-rsc-4/qAaABMQehybg84Y58PFUZIOVdvDG8syLhGc2UfXUNfaQD_BPmnpiHYilIxKhKGtEblaKWvwwtTiHfKoPW8OkjSuNavHv7N5EmbW61B8uhsG0PnnWjHzI4YMmXp4xnrkNeDY1CD8QoFB4cWdBOZWuJ59DHZzgidcqHGTnJ1EPrET9j0l0EmdFO-Fk1AAfOsWK?purpose=fullsize)
 
@@ -14,13 +14,13 @@ Python Developer | AI Enthusiast | Deep Learning Researcher
 
 * 🤖 Interested in Artificial Intelligence & Machine Learning
 
-* 🧠 Working on Deep Learning & OpenCV
+* 🧠 Working on Deep Learning 
 
 * 📱 Researching Teledermatology Diagnosis Systems
 
 * 💡 Passionate about building real-world AI applications
 
-* 🚀 Goal: Become a Software / AI Engineer
+* 🚀 Goal: Become a Python developer / Software Developer 
 
 ## 🌐 Connect With Me
 
@@ -34,7 +34,7 @@ Email
 
 Python
 
-MySQL
+SQL
 
 HTML
 
@@ -44,15 +44,11 @@ GitHub
 
 Git
 
-OpenCV
-
 Deep Learning
 
 ## 🔥 Current Projects
 
 Lightweight Deep Learning Framework for Real-Time Teledermatology Diagnosis
-
-OpenCV Mini Projects
 
 Machine Learning Practice Projects
 
@@ -74,7 +70,7 @@ AI Focus Areas
 
 ### 5
 
-ML • DL • OpenCV • Telehealth • Python
+Python • Telehealth • DL  
 
 Learning Journey
 
